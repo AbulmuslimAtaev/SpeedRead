@@ -4,7 +4,7 @@
 технологии [RSVP](https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation)
 . Реализован с использованием библиотеки Tkinter.
 
-<img src="https://imgur.com/a/wpyNQnL">
+<img src="https://i.imgur.com/Vg84qW2.png">
 Интерфейс адаптирован под Windows.
 
 ## Запуск
